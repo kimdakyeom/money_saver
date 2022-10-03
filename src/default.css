@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'IBM Plex Sans KR';
+    src: url(./styles/fonts/IBMPlexSansKR-Regular.ttf);
+}

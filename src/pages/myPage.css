@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Montserrat&family=Nanum+Gothic&display=swap');
+
+.MyPage {
+  font-family: 'Gothic A1', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.big {
+  font-size: xx-large;
+}
+
+.point {
+  width: 2rem;
+  height: 2rem;
+}
+
+.text-point {
+  font-size: 2rem;
+  font-weight: bold;
+}
